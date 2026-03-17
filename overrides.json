@@ -1,13 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
   "entries": [
     {
       "id": "arabesque",
       "meaningJP": "アラベスク"
-    },
-    {
-      "id": "plieBarre",
-      "tipsJP": "かかとが浮かない範囲で膝を曲げて、つま先と膝の向きを揃えましょう。\n こんにちは\nテストです"
     }
   ]
 }
